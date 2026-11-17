@@ -1,0 +1,64 @@
+﻿weapon_id,name,category,source_weapon_ids
+5032,Hand Wraps,Gloves,leather_handwraps
+5033,Moto Gloves,Gloves,motorcycle_gloves
+5031,Driver Gloves,Gloves,slick_gloves
+5034,Specialist Gloves,Gloves,specialist_gloves
+5030,Sport Gloves,Gloves,sporty_gloves
+5027,Bloodhound Gloves,Gloves,studded_bloodhound_gloves
+4725,Broken Fang Gloves,Gloves,studded_brokenfang_gloves
+5035,Hydra Gloves,Gloves,studded_hydra_gloves
+7,AK-47,Rifles,weapon_ak47
+8,AUG,Rifles,weapon_aug
+9,AWP,Rifles,weapon_awp
+500,Bayonet,Knives,sfui_wpnhud_knifebayonet|weapon_bayonet
+26,PP-Bizon,SMGs,weapon_bizon
+63,CZ75-Auto,Pistols,weapon_cz75a
+1,Desert Eagle,Pistols,weapon_deagle
+2,Dual Berettas,Pistols,weapon_elite
+10,FAMAS,Rifles,weapon_famas
+3,Five-SeveN,Pistols,weapon_fiveseven
+11,G3SG1,Rifles,weapon_g3sg1
+13,Galil AR,Rifles,weapon_galilar
+4,Glock-18,Pistols,weapon_glock
+32,P2000,Pistols,weapon_hkp2000
+515,Butterfly Knife,Knives,sfui_wpnhud_knife_butterfly|weapon_knife_butterfly
+518,Survival Knife,Knives,sfui_wpnhud_knife_canis|weapon_knife_canis
+517,Paracord Knife,Knives,sfui_wpnhud_knife_cord|weapon_knife_cord
+503,Classic Knife,Knives,sfui_wpnhud_knifecss|weapon_knife_css
+512,Falchion Knife,Knives,sfui_wpnhud_knife_falchion_advanced|weapon_knife_falchion
+505,Flip Knife,Knives,sfui_wpnhud_knifeflip|weapon_knife_flip
+506,Gut Knife,Knives,sfui_wpnhud_knifegut|weapon_knife_gut
+520,Navaja Knife,Knives,sfui_wpnhud_knife_gypsy_jackknife|weapon_knife_gypsy_jackknife
+507,Karambit,Knives,sfui_wpnhud_knifekaram|weapon_knife_karambit
+526,Kukri Knife,Knives,sfui_wpnhud_knife_kukri|weapon_knife_kukri
+508,M9 Bayonet,Knives,sfui_wpnhud_knifem9|weapon_knife_m9_bayonet
+521,Nomad Knife,Knives,sfui_wpnhud_knife_outdoor|weapon_knife_outdoor
+516,Shadow Daggers,Knives,sfui_wpnhud_knife_push|weapon_knife_push
+525,Skeleton Knife,Knives,sfui_wpnhud_knife_skeleton|weapon_knife_skeleton
+522,Stiletto Knife,Knives,sfui_wpnhud_knife_stiletto|weapon_knife_stiletto
+514,Bowie Knife,Knives,sfui_wpnhud_knife_survival_bowie|weapon_knife_survival_bowie
+509,Huntsman Knife,Knives,sfui_wpnhud_knifetactical|weapon_knife_tactical
+519,Ursus Knife,Knives,sfui_wpnhud_knife_ursus|weapon_knife_ursus
+523,Talon Knife,Knives,sfui_wpnhud_knife_widowmaker|weapon_knife_widowmaker
+14,M249,Heavy,weapon_m249
+16,M4A4,Rifles,weapon_m4a1
+60,M4A1-S,Rifles,weapon_m4a1_silencer
+17,MAC-10,SMGs,weapon_mac10
+27,MAG-7,Heavy,weapon_mag7
+23,MP5-SD,SMGs,weapon_mp5sd
+33,MP7,SMGs,weapon_mp7
+34,MP9,SMGs,weapon_mp9
+28,Negev,Heavy,weapon_negev
+35,Nova,Heavy,weapon_nova
+36,P250,Pistols,weapon_p250
+19,P90,SMGs,weapon_p90
+64,R8 Revolver,Pistols,weapon_revolver
+29,Sawed-Off,Heavy,weapon_sawedoff
+38,SCAR-20,Rifles,weapon_scar20
+39,SG 553,Rifles,weapon_sg556
+40,SSG 08,Rifles,weapon_ssg08
+31,Zeus x27,Equipment,weapon_taser
+30,Tec-9,Pistols,weapon_tec9
+24,UMP-45,SMGs,weapon_ump45
+61,USP-S,Pistols,weapon_usp_silencer
+25,XM1014,Heavy,weapon_xm1014
